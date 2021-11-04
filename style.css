@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
+.header {
+    background-color: white;
+    opacity: 45%;
+    height: px;
+    padding: 10px;
+}
+
+.nav {
+
+
+}
+
+a {
+ padding-left: 2rem;   
+padding-right: 1rem;
+font-family: 'Irish Grover', cursive;
+text-decoration: none;
+color: black;
+}
+.about2 {
+    border-left: black solid 1px;
+}
+body {
+    background-color: black;
+    margin: 0;
+    background-image: url(/images/image.png)
+}
