@@ -18,6 +18,12 @@ body {
 .about2 {
     border-left: black solid 1px;
 }
+.body {
+    background-color: black;
+    margin: 0;
+    width: 100%;
+    background-image: url(/images/image.png)     
+}
 
 
 .body1 {
@@ -25,7 +31,7 @@ body {
     background-color: black;
     margin: 0;
     width: 100%;
-    background-image: url(/images/image.png)
+    background-image: url(/images/about.png)
 }
 
 
@@ -197,7 +203,7 @@ h3 {
 >>>>>>> a747f2ec9a6dd05df72739de55ba9bae7352fe9c
 }
 .contacts {
-    background-image: url(/images/contact.jpg)
+    background-image: url(/images/contacts.jpg)
 }
 .contacts-txt {
     font-size: 45px;
