@@ -175,26 +175,7 @@ h2 {
     font-size: 30px;
     padding-left: 33rem;
 
-<<<<<<< HEAD
-}
-.contacts {
-    background-image: url(/images/contacts.jpg)
-}
-.contacts-txt {
-    font-size: 45px;
-    font-family: 'Irish Grover', cursive;
-    padding-left: 25rem;
-    padding-top: 10rem;
-} 
-h3 {
-    font-size: 50px;
-    padding-left: 1rem;
-    border-bottom: black solid 2px;
-    margin: 2rem;
-    font-family: 'Irish Grover', cursive;
-=======
->>>>>>> a747f2ec9a6dd05df72739de55ba9bae7352fe9c
-}
+    }
 .contacts {
     background-image: url(/images/contact.jpg)
 }
