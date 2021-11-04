@@ -226,3 +226,114 @@ h3 {
     padding-top: 10rem;
     border-radius: 20px;
 }
+.shrekm1 {
+    background-color: black;
+    background-image: url(/images/shrekm1.jpg);
+}
+.shrekm1-txt {
+    font-size: 30px;
+    padding-left: 50rem;
+    margin: 0%;
+    padding-top: 10rem;
+   
+}
+.text3 {
+    background-color: white;
+    width: 80rem;
+    height: 600px;
+    float: right;
+    margin-right: 12.5rem;
+    margin-top: 5rem;
+    border-radius: 20px;
+    margin-left: 12.5rem;
+}
+iframe {
+    padding-left: 20px;
+}
+.iframewrapper {
+    width: 750px;
+    height: 1px;
+}
+.shrekm2 {
+    background-color: black;
+    background-image: url(/images/shrekm2.jpg);
+}
+.shrekm2-txt {
+    font-size: 30px;
+    padding-left: 50rem;
+    margin: 0%;
+    padding-top: 5rem;
+}
+.text4 {
+    background-color: white;
+    width: 80rem;
+    height: 600px;
+    float: right;
+    margin-right: 12.5rem;
+    margin-top: 5rem;
+    border-radius: 20px;
+    margin-left: 12.5rem;
+}
+iframe {
+    padding-left: 20px;
+}
+.iframewrapper2 {
+    width: 750px;
+    height: 1px;
+}
+   
+ .shrekm3 {
+     background-color: black;
+     background-image: url(/images/shrekm3.jpg);
+ }
+ .shrekm3-txt {
+     font-size: 30px;
+     padding-left: 50rem;
+     margin: 0%;
+     padding-top: 5rem;
+    }
+    .text3 {
+        background-color: white;
+        width: 80rem;
+        height: 600px;
+        float: right;
+        margin-right: 12.5rem;
+        margin-top: 5rem;
+        border-radius: 20px;
+        margin-left: 12.5rem;
+    }
+    iframe {
+        padding-left: 20px;
+    }
+    .iframewrapper4 {
+        width: 750px;
+        height: 1px;
+    }
+    .shrekm4 {
+        background-color: black;
+        background-image: url(/images/shrekm4.jpg);
+    }
+    .shrekm4-txt {
+        font-size: 30px;
+        padding-left: 50rem;
+        margin: 0%;
+        padding-top: 5rem;
+       }
+       .text5 {
+           background-color: white;
+           width: 80rem;
+           height: 600px;
+           float: right;
+           margin-right: 12.5rem;
+           margin-top: 5rem;
+           border-radius: 20px;
+           margin-left: 12.5rem;
+       }
+       iframe {
+           padding-left: 20px;
+       }
+       .iframewrapper4 {
+           width: 750px;
+           height: 1px;
+       }
+    
