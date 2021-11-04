@@ -2,15 +2,8 @@
 .header {
     background-color: white;
     opacity: 45%;
-    height: px;
     padding: 10px;
 }
-
-.nav {
-
-
-}
-
 a {
  padding-left: 2rem;   
 padding-right: 1rem;
@@ -21,8 +14,55 @@ color: black;
 .about2 {
     border-left: black solid 1px;
 }
-body {
+.body1 {
     background-color: black;
     margin: 0;
     background-image: url(/images/image.png)
+}
+.text {
+    background-color: white;
+    opacity: 50%;
+    width: 750px;
+    height: 150px;
+    float: right;
+    margin-right: 25rem;
+    margin-top: 35rem;
+    border-radius: 20px;
+
+}
+p {
+    font-size: 40px;
+    font-family: 'Irish Grover', cursive;
+   padding-left: 20px;
+   padding-right: 19px;
+
+}
+h1 {
+    font-size: 50px;
+    font-family: 'Irish Grover', cursive;
+    padding-left: 13rem;
+    padding-top: 1px;
+}
+.body2 {
+    background-color: black;
+    margin: 0;
+    background-image: url(images/pilt_pilt.jpg)
+    
+}
+.text2 {
+    background-color: white;
+    opacity: 50%;
+    width: 75rem;
+    height: 600px;
+    float: right;
+    margin-right: 12.5rem;
+    margin-top: 5rem;
+    border-radius: 20px;
+    margin-left: 12.5rem;
+}
+h2 {
+    font-size: 50px;
+    font-family: 'Irish Grover', cursive;
+    padding-left: 1rem;
+    border-bottom: red 1px 2px;
 }
