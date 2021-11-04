@@ -21,8 +21,97 @@ color: black;
 .about2 {
     border-left: black solid 1px;
 }
-body {
+.main-body {
     background-color: black;
     margin: 0;
+    width: 100%;
     background-image: url(/images/image.png)
+}
+
+.body1 {
+    background-color: black;
+    margin: 0;
+    width: 100%;
+    background-image: url(/images/about.png)
+}
+
+.body2 {
+    background-color: black;
+    margin: 0;
+    width: 100%;
+    overflow-x: hidden;
+    background-image: url(images/movies-shrek.png);
+   
+ 
+}
+.movie-img {
+    width: 100rem;
+    height: 25rem;
+
+}
+.boxes {
+    display: flex;
+
+    justify-content: space-evenly;
+    background-color: #363421;
+    width: 100rem;
+    height: 16.4rem;
+    padding-top: 2rem;
+    align-items: center;
+}
+.shrek1 {
+    display: flex;
+    background-color: #F4F4F4;
+    width: 15rem;
+    height: 15rem;
+    border-radius: 15%;
+    background: linear-gradient(#effbdb 70px, #effbdb, #effbdb, #effbdb, #6b7909, #363421 );
+    opacity: 70%;
+    box-shadow: 0px 3px;
+    
+}
+.shrek2 {
+    display: flex;
+    background-color: #F4F4F4;
+    width: 15rem;
+    height: 15rem;
+    border-radius: 15%; 
+    background: linear-gradient(#effbdb 70px, #effbdb, #effbdb, #effbdb, #6b7909, #363421 );
+    opacity: 70%;
+    box-shadow: 0px 3px;
+}
+.shrek3 {
+    display: flex;
+    background-color: #F4F4F4;
+    width: 15rem;
+    height: 15rem;
+    border-radius: 15%;
+    background: linear-gradient(#effbdb 70px, #effbdb, #effbdb, #effbdb, #6b7909, #363421 );
+    opacity: 70%;
+    box-shadow: 0px 3px;
+}
+.shrek4 {
+    display: flex;
+    background-color: #F4F4F4;
+    width: 15rem;
+    height: 15rem;
+    border-radius: 15%;
+    background: linear-gradient(#effbdb 70px, #effbdb, #effbdb, #effbdb, #6b7909, #363421 );
+    opacity: 70%;
+    box-shadow: 0px 3px;
+}
+.img1 {
+  padding-top: 38px;
+}
+.img2 {
+    padding-top: 40px;
+}
+.img3 {
+    padding-top: 45px;
+}
+.img4{
+    padding-top: 38px;
+}
+.movies1 {
+    
 }
