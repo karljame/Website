@@ -11,10 +11,13 @@ font-family: 'Irish Grover', cursive;
 text-decoration: none;
 color: black;
 }
+body {
+    background-repeat: no-repeat;
+}
 .about2 {
     border-left: black solid 1px;
 }
-.main-body {
+
 
 .body1 {
 
@@ -25,12 +28,7 @@ color: black;
 }
 
 
-.body1 {
-    background-color: black;
-    margin: 0;
-    width: 100%;
-    background-image: url(/images/about.png)
-}
+
 
 .body2 {
     background-color: black;
@@ -48,11 +46,10 @@ color: black;
 }
 .boxes {
     display: flex;
-
     justify-content: space-evenly;
     background-color: #363421;
     width: 100rem;
-    height: 16.4rem;
+    height: 16.5rem;
     padding-top: 2rem;
     align-items: center;
 }
@@ -109,19 +106,18 @@ color: black;
 .img4{
     padding-top: 38px;
 }
-.movies1 {
-    
-}
-=======
+
+
 .text {
     background-color: white;
-    opacity: 50%;
+    opacity: 45%;
     width: 750px;
     height: 150px;
     float: right;
     margin-right: 25rem;
     margin-top: 35rem;
     border-radius: 20px;
+    padding-top: 4;
 
 }
 p {
@@ -137,7 +133,7 @@ h1 {
     padding-left: 13rem;
     padding-top: 1px;
 }
-.body2 {
+.about {
     background-color: black;
     margin: 0;
     background-image: url(images/pilt_pilt.jpg)
@@ -145,7 +141,7 @@ h1 {
 }
 .text2 {
     background-color: white;
-    opacity: 50%;
+    
     width: 75rem;
     height: 600px;
     float: right;
@@ -154,10 +150,45 @@ h1 {
     border-radius: 20px;
     margin-left: 12.5rem;
 }
+b {
+    font-size: 33px;
+    font-family: 'Irish Grover', cursive;
+    float: right;
+    padding-left: 33rem;
+}
 h2 {
     font-size: 50px;
     font-family: 'Irish Grover', cursive;
     padding-left: 1rem;
-    border-bottom: red 1px 2px;
+    border-bottom: black solid 2px;
+    margin: 2rem;
 }
+.about-img {
+    width: 27rem;
+    float: left;
+    height: 20rem;
+    margin-left: 2rem;
+    padding-top: 0rem;
+    border-radius: 20px;
+}
+.about-txt {
+    font-size: 30px;
+    padding-left: 33rem;
 
+}
+.contacts {
+    background-image: url(/images/contact.jpg)
+}
+.contacts-txt {
+    font-size: 45px;
+    font-family: 'Irish Grover', cursive;
+    padding-left: 25rem;
+    padding-top: 10rem;
+} 
+h3 {
+    font-size: 50px;
+    padding-left: 1rem;
+    border-bottom: black solid 2px;
+    margin: 2rem;
+    font-family: 'Irish Grover', cursive;
+} 
