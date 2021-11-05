@@ -19,9 +19,9 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
 ## Projekti idee ja eesmärk
 Projekti ülesandeks oli luua multikategelase/muinasjututegelase/tuntud inimese kohta käiv veebileht (one-roll-page? multi-page?), kus oleks vähemalt alljärgnevad alampunktid:
   - Esileht <br />
-  - Tutvustus - ülevaade kellega tegu: pilt+tekst <br />
-  - Saavutused - kõige mahukam ja pigem sektsioon, kus iga saavutus on pikemalt lahti kirjutatud <br />
-  - Kontakt - üldkontaktandmed <br />
+  - Tutvustus - ülevaade kellega tegu: pilt+tekst\
+  - Saavutused - kõige mahukam ja pigem sektsioon, kus iga saavutus on pikemalt lahti kirjutatud\
+  - Kontakt - üldkontaktandmed\
 Lisaks oli veel nõue, et veebileht peaks olema kahes vaates: mobile-view ja desktop-view.
 Teine eesmärk sellel projektil oli aga hoopis tutvustada esimese aasta kursuslastele projektihaldust, tööprotsesse, erinevaid töövõtteid, mida ühe projekti läbi viimasel ette tuleb. Lisaks õppida läbi tiimitöö analüüsimist ja planeerimist kasutades erinevaid programmeerimise toole nagu Figma, Github, VSCode.
 
