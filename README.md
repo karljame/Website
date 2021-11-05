@@ -61,6 +61,10 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
 
 **Karl Jäme:**
 
+**Olavi Allik:**
+- Üritasin tiimitöös kaugustest majandada ja aru saada mis toimub
+- Õppisin arusaada html/css, mida keegi teine on kirjutanud
+- Oleksin tahtnud olla kohal. 
 
 **Liisa Tiisväli:**
  - Õppisin tiimitööd
