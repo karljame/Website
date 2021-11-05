@@ -67,10 +67,10 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
  - Sain paremini arust Figmast, VS codist ja ubuntu terminaalist.
  - Võibolla, koodi kirjutamine on tore, aga ma pole julgenud palju kirjutada.
 
-**xxx:**
- -  
- - 
- - 
+**Sander-Aleks Mander:**
+ -  Õppisin paremini tegema tiimitööd.
+ -  Õppisin paremini kasutama htmli ja VScodi ja kuidas teha ilusamat veebilehte
+ -  Ei, mulle meeldisid antud ülesanded.
 
 **xxx:** 
  - 
