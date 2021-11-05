@@ -11,28 +11,24 @@ Karl Jäme
 Andra Vabar 
 
 **Tiimiliikmed TA-21:**
-Liisa Tiisväli
-Olavi Allik
+Liisa Tiisväli / Olavi Allik
 
 ## Kust me pärit oleme?
 Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkvara arenduse erialal.
 
 ## Projekti idee ja eesmärk
-* Projekti eesmärk on tehe Portfolio kas näitlejale või mõnele tegelasele.
+Projekti ülesandeks oli luua multikategelase/muinasjututegelase/tuntud inimese kohta käiv veebileht (one-roll-page? multi-page?), kus oleks vähemalt alljärgnevad alampunktid:
+  - Esileht
+  - Tutvustus - ülevaade kellega tegu: pilt+tekst
+  - Saavutused - kõige mahukam ja pigem sektsioon, kus iga saavutus on pikemalt lahti kirjutatud
+  - Kontakt - üldkontaktandmed
+Lisaks oli veel nõue, et veebileht peaks olema kahes vaates: mobile-view ja desktop-view.
+Teine eesmärk sellel projektil oli aga hoopis tutvustada esimese aasta kursuslastele projektihaldust, tööprotsesse, erinevaid töövõtteid, mida ühe projekti läbi viimasel ette tuleb. Lisaks õppida läbi tiimitöö analüüsimist ja planeerimist kasutades erinevaid programmeerimise toole nagu Figma, Github, VSCode.
 
 ## Töökäik
- 1. Päev 1: Tutvumine tiimiga, ülesannete jagamine.
- 2. FIGMA - Liisa ja Erik
-
-
- Päev 2: Koodi kirjutamine ja Figma redesgin
- Kood -
- Figma - Liisa ja Eerik
- Mobiilivaade - Olavi Allik
- 
- Päev 3: Koodi parandamine
-
-
+ 1. Päev: Tutvumine tiimiga, idee mõtestamine, ülesannete jagamine, FIGMAga alustamine
+ 2. Päev: Koodi kirjutamine ja Figma redesgin
+ 3. Päev: Koodi parandamine, projekti viimistlemine, dokumentatsiooni lõpetamine
 
 ## Suhtluskanalid: 
 - Teams
@@ -42,6 +38,7 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
 - Github
 - VS Code
 - Figma https://www.figma.com/file/mnDKfCkVHVsBRl90f25iHV/Untitled?node-id=0%3A1
+
 ## Küsimused projekti kohta
  - Üks pehme oskus, mida õppisin ja endas arendasin
  - Üks tehniline oskus, mida õppisin ja endas arendasin
@@ -50,9 +47,9 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
 
 
 **Andra Vabar:**
- - 
- - 
-
+ - Tiimiga suhtlemine distantsilt video vahendusel
+ - seekord ei pannud käsi külge tehnilises mõttes
+ - seekord ei olnud võimalik panustada projekti selliselt, et oleks saanud midagi teistmoodi üldse teha
 
 **Raiko Toomsalu:**
  - Õppisin paremini tiimitöös osalema.
@@ -75,8 +72,3 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
  -  Õppisin paremini tegema tiimitööd.
  -  Õppisin paremini kasutama htmli ja VScodi ja kuidas teha ilusamat veebilehte
  -  Ei, mulle meeldisid antud ülesanded.
-
-**xxx:** 
- - 
- - 
- - 
