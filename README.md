@@ -57,7 +57,9 @@ Teine eesmärk sellel projektil oli aga hoopis tutvustada esimese aasta kursusla
  - Ei oleks, mulle väga meeldisid minule antud ülesanded.
 
 **Karl Jäme:**
-
+- Õppisin kuidas juhendata
+- HTML/CSS arendamist
+- ei oleks 
 **Olavi Allik:**
 - Üritasin tiimitöös kaugustest majandada ja aru saada mis toimub
 - Õppisin arusaada html/css, mida keegi teine on kirjutanud
