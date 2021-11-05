@@ -46,10 +46,10 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
  - 
 
 
-**xxx:**
- - 
- - 
- - 
+**Raiko Toomsalu:**
+ - Õppisin paremini tiimitöös osalema.
+ - Õppisin vägagi htmli ja cssi, õppisin ka VS Code üleüldiselt rohkem kasutama. Õppisin paremini abi otsida netist.
+ - Ei oleks, mulle väga meeldisid minule antud ülesanded.
 
 **Karl Jäme:**
 
