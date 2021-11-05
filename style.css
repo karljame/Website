@@ -47,6 +47,7 @@ body {
  
 }
 .movie-img {
+    object-fit: cover;
     width: 100rem;
     height: 25rem;
 
@@ -59,6 +60,7 @@ body {
     height: 16.5rem;
     padding-top: 2rem;
     align-items: center;
+    
 }
 .shrek1 {
     display: flex;
