@@ -22,7 +22,15 @@ Kõik tiimi liikmed on pärit Eestist ning õpivad Kuressaare Ametikoolis tarkva
 
 ## Töökäik
  1. Päev 1: Tutvumine tiimiga, ülesannete jagamine.
- 2. FIGMA - Liisa ja
+ 2. FIGMA - Liisa ja Erik
+
+
+ Päev 2: Koodi kirjutamine ja Figma redesgin
+ Kood -
+ Figma - Liisa ja Eerik
+ Mobiilivaade - Olavi Allik
+ 
+ Päev 3: Koodi parandamine
 
 
 
