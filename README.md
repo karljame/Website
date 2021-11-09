@@ -76,3 +76,8 @@ Teine eesmärk sellel projektil oli aga hoopis tutvustada esimese aasta kursusla
  -  Õppisin paremini tegema tiimitööd.
  -  Õppisin paremini kasutama htmli ja VScodi ja kuidas teha ilusamat veebilehte
  -  Ei, mulle meeldisid antud ülesanded.
+
+**Erik Leemet:**
+ -  Õppisin paremini tegema tiimitööd.
+ -  Õppisin 
+ -  Oleks teinud html/cssi.
