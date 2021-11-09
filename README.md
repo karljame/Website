@@ -7,6 +7,10 @@ Meie tiim **"Proj10"** koosnes 3 erineva kursuse õpilastest: TAK-19, TA-20 ja T
 **Tiimiliikmed TAK-19:** 
 Karl Jäme
 
+**Tiimiliikmed TAK-20:** 
+Erik Leemet
+
+
 **Tiimiliikmed TA-20:**
 Andra Vabar 
 
